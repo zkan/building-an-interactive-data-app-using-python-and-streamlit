@@ -8,4 +8,5 @@ See the workshop instruction
 | Name | Description |
 | - | - |
 | `datasets/` | Datasets ที่ใช้ใน workshop |
+| `examples/` | โค้ดตัวอย่างการใช้งาน Python ในกรณีต่าง ๆ |
 | `requirements.txt` | ไฟล์ที่ใช้เก็บ Package ต่าง ๆ ที่ใช้ใน workshop |
