@@ -1,0 +1,8 @@
+[tools]
+uv = "0.9.5"
+
+[tasks.demo]
+run = "uv run streamlit run demo.py"
+
+[tasks.export]
+run = "uv export --format requirements.txt --output-file requirements.txt"
